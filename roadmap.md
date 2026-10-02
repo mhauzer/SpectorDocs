@@ -1,0 +1,25 @@
+# Spector Roadmap
+
+- Labels:
+  - setting prefixes ,for labels
+  - updating prefixes for labels
+- Dictionaries
+- References
+- Relabelling
+- Exporting requirements to Markdown files.
+- Import requirements from Markdown files.
+- Comparing specifications
+- Requirement Graphs
+- Requirements Library
+- Domain areas
+- Composing specifications from the requirements library.
+- Specification Templates
+- Detecting Requirement Redundancies
+- Detecting Requirement Conflicts
+- Converting Documentation to Specification
+- Converting Code to Specification
+- Generating Tests
+- Contextual Help
+- Manual
+- FAQ
+- Reporting Bugs
