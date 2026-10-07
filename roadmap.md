@@ -1,13 +1,29 @@
 # Spector Roadmap
 
+v0.1
+
+- Simple lists of requirements
+- Adding, editing and removing requirements
+
+v0.2
+
 - Labels:
-  - setting prefixes ,for labels
+  - setting prefixes for labels
   - updating prefixes for labels
-- Dictionaries
+- Drag & drop
+- Undo
+
+v0.3
+
+- Requirement trees
 - References
-- Relabelling
 - Exporting requirements to Markdown files.
 - Import requirements from Markdown files.
+
+v0.4
+
+- Dictionaries
+- Relabelling
 - Comparing specifications
 - Requirement Graphs
 - Requirements Library
