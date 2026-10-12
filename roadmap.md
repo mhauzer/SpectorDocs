@@ -10,6 +10,7 @@ v0.2
 - Labels:
   - setting prefixes for labels
   - updating prefixes for labels
+- Requirement details as a part of the view, rather than a dialog form
 - Drag & drop
 - Undo
 
