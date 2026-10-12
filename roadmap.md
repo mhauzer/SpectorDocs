@@ -17,12 +17,14 @@
 - Labels:
   - setting prefixes for labels
   - updating prefixes for labels
+- Requirement details as a part of the view, rather than a dialog form
 - Drag & drop
 - Undo
 
 ## v0.3
 
 - Requirement trees
+- Persistent view state (collapsed and expanded nodes in the tree view)
 - References
 - Exporting requirements to Markdown files.
 - Import requirements from Markdown files.
