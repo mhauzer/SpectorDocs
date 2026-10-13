@@ -9,6 +9,7 @@
 - [Requirement Specification](./spector-rs.md)
 - [Roadmap](./roadmap.md)
 - [Software Architecture](./software-architecture.md)
+- [QT Development](./qt-development.md)
 
 ## Way of Work
 
