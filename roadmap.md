@@ -48,7 +48,7 @@
 ## Backlog
 
 - Comparing specifications
-- Requirement Graphs
+- Requirement Graphs [Graph Databases for Python](https://www.reddit.com/r/Python/comments/x376eg/do_you_use_python_in_combination_with_some_graph/?rdt=62766)
 - Requirements Library
 - Domain areas
 - Composing specifications from the requirements library.
