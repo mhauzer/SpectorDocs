@@ -27,7 +27,7 @@ Date | Author | Version | Description
 ---- | ------ | ------- | -----------
 2026-09-16 | Michał Hauzer | v0.1 | Initial version
 2026-09-16 | Michał Hauzer | v0.2 | Requirement Specification Document Unsaved Changes flag added
-2026-09-17 | Michał Hauzer | v0.3 | Document creation date should be set on new document creation event, not the saving one 
+2026-09-17 | Michał Hauzer | v0.3 | Document creation date should be set on new document creation event, not the saving one
 
 ## Preamble
 
