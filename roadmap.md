@@ -20,7 +20,7 @@
   - updating prefixes for labels
   - autonumeration
   - autonumeration option
-  - relabelling
+  - Relabelling
 - User Options
 - Requirement details as a part of the view, rather than a dialog form
 - Drag & drop
@@ -41,20 +41,19 @@
 
 - Search
 - Select all, add to the selection, remove from the selection
+- Dictionaries
 - Displaying Requirement Specification Writing Rules as a tool property window
 - Displaying Label Grammar as a tool property window
 
 ## Backlog
 
-- Dictionaries
-- Relabelling
 - Comparing specifications
 - Requirement Graphs
 - Requirements Library
 - Domain areas
 - Composing specifications from the requirements library.
 - Specification Templates
-- Detecting Requirement Redundancies
+- Detecting Redundant Requirements
 - Detecting Requirement Conflicts
 - Converting Documentation to Specification
 - Converting Code to Specification
