@@ -14,6 +14,7 @@
 
 ## v0.2
 
+- Tool bar
 - Labels:
   - setting prefixes for labels
   - updating prefixes for labels
@@ -32,11 +33,16 @@
 - References
 - Exporting requirements to Markdown files.
 - Import requirements from Markdown files.
+- [Markdown files editor](https://doc.qt.io/qtforpython-6/examples/example_webenginewidgets_markdowneditor.html)
+- New help menu item: Requirement Specification Writing Rules
+- New help menu item: Label Grammar
 
 ## v0.4
 
 - Search
 - Select all, add to the selection, remove from the selection
+- Displaying Requirement Specification Writing Rules as a tool property window
+- Displaying Label Grammar as a tool property window
 
 ## Backlog
 
