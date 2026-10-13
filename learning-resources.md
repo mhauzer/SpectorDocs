@@ -13,3 +13,5 @@
 - [Real Python QT Designer Tutorial](https://realpython.com/qt-designer-python/)
 - [Learning How to Properly Develop a GUI in PyQt](https://www.reddit.com/r/learnpython/comments/gdmsou/learning_how_to_properly_develop_a_gui_in_pyqt/)
 - [Building a Python GUI with PyQt Designer](https://pbrotoisworo.medium.com/building-a-python-gui-with-pyqt-designer-987f8a400bdf)
+- [Basic Layouts Example](https://doc.qt.io/qt-6/qtwidgets-layouts-basiclayouts-example.html)
+- [Get User Input from QDialog](https://forum.qt.io/topic/100683/get-user-input-from-qdialog)
