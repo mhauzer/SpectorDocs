@@ -44,21 +44,35 @@
 - Dictionaries
 - Displaying Requirement Specification Writing Rules as a tool property window
 - Displaying Label Grammar as a tool property window
-
-## Backlog
-
-- Comparing specifications
-- Requirement Graphs [Graph Databases for Python](https://www.reddit.com/r/Python/comments/x376eg/do_you_use_python_in_combination_with_some_graph/?rdt=62766), ([2](https://www.reddit.com/r/KnowledgeGraph/comments/1qcpqj3/i_built_a_graph_database_in_python/)), CogDb
-- Requirements Library
-- Domain areas
-- Composing specifications from the requirements library.
-- Specification Templates
-- Detecting Redundant Requirements
-- Detecting Requirement Conflicts
-- Converting Documentation to Specification
-- Converting Code to Specification
-- Generating Tests
 - Contextual Help
 - Manual
 - FAQ
 - Reporting Bugs
+
+## v0.5
+
+- Requirement Graphs [Graph Databases for Python](https://www.reddit.com/r/Python/comments/x376eg/do_you_use_python_in_combination_with_some_graph/?rdt=62766), ([2](https://www.reddit.com/r/KnowledgeGraph/comments/1qcpqj3/i_built_a_graph_database_in_python/)), CogDb
+- Detecting Redundant Requirements
+- Detecting Requirement Conflicts
+- Marking requirements as implemented
+
+## v0.6
+
+- Requirements Library
+- Domain areas
+- Composing specifications from the requirements library.
+- Specification Templates
+- Requirement mapping across multiple specifications
+
+## v0.7
+
+- Planning
+- Versioning
+- Comparing specifications
+
+## Backlog
+
+- Converting Documentation to Specification
+- Converting Code to Specification
+- Generating Tests
+- Generating Code
