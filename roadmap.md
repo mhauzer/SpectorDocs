@@ -33,7 +33,7 @@
 - References
 - Exporting requirements to Markdown files.
 - Import requirements from Markdown files.
-- [Markdown files editor](https://doc.qt.io/qtforpython-6/examples/example_webenginewidgets_markdowneditor.html)
+- [Markdown files editor](https://doc.qt.io/qtforpython-6/examples/example_webenginewidgets_markdowneditor.html) ([2](https://www.reddit.com/r/KnowledgeGraph/comments/1qcpqj3/i_built_a_graph_database_in_python/)), CogDb
 - New help menu item: Requirement Specification Writing Rules
 - New help menu item: Label Grammar
 
