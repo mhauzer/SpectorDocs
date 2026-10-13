@@ -17,6 +17,10 @@
 - Labels:
   - setting prefixes for labels
   - updating prefixes for labels
+  - autonumeration
+  - autonumeration option
+  - relabelling
+- User Options
 - Requirement details as a part of the view, rather than a dialog form
 - Drag & drop
 - Undo
