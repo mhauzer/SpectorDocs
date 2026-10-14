@@ -2,6 +2,8 @@
 
 ## Python Learning Resources
 
+- [What's the Difference Between a Module and Package in Python?](https://stackoverflow.com/questions/7948494/whats-the-difference-between-a-module-and-package-in-python)
+- [What is `__main__.py`?](https://stackoverflow.com/questions/4042905/what-is-main-py)
 - [Generally Speaking, How Are Python Projects Structured?](https://stackoverflow.com/questions/22177976/generally-speaking-how-are-python-projects-structured)
 
 ## QT Learning Resources
