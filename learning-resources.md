@@ -5,6 +5,7 @@
 - [What's the Difference Between a Module and Package in Python?](https://stackoverflow.com/questions/7948494/whats-the-difference-between-a-module-and-package-in-python)
 - [What is `__main__.py`?](https://stackoverflow.com/questions/4042905/what-is-main-py)
 - [Generally Speaking, How Are Python Projects Structured?](https://stackoverflow.com/questions/22177976/generally-speaking-how-are-python-projects-structured)
+- [pyproject.toml vs. requirements.txt](https://www.reddit.com/r/learnpython/comments/1bmxe6i/whats_the_difference_between_pyprojecttoml/), read especially [this comment](https://www.reddit.com/r/learnpython/comments/1bmxe6i/comment/kwfz4iv/)
 
 ## QT Learning Resources
 
