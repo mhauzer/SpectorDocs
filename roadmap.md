@@ -16,13 +16,15 @@
 
 - Tool bar
 - Labels:
+  - Define the internal structure for labels:
+    - prefix: str
+    - number: int
   - setting prefixes for labels
   - updating prefixes for labels
   - autonumeration
   - autonumeration option
   - Relabelling
 - User Options
-- Requirement details as a part of the view, rather than a dialog form
 - Drag & drop
 - Undo
 
@@ -72,7 +74,12 @@
 
 ## Backlog
 
-- Converting Documentation to Specification
-- Converting Code to Specification
-- Generating Tests
-- Generating Code
+- UI:
+  - Toolbar customization
+  - Shortcuts customization
+- Business Features:
+  - Requirement details as a part of the view, rather than a dialog form
+  - Converting Documentation to Specification
+  - Converting Code to Specification
+  - Generating Tests
+  - Generating Code
