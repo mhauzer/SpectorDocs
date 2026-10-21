@@ -13,8 +13,13 @@
 - [Structuring a Large PyQt Application](https://www.pythonguis.com/faq/structuring-a-large-pyqt-application/)
 - [First QT Python Project](https://forum.qt.io/topic/147558/first-qt-python-project)
 - [PyQt Project Organization](https://stackoverflow.com/questions/21826516/pyqt-project-organization)
-- [Real Python QT Designer Tutorial](https://realpython.com/qt-designer-python/)
 - [Learning How to Properly Develop a GUI in PyQt](https://www.reddit.com/r/learnpython/comments/gdmsou/learning_how_to_properly_develop_a_gui_in_pyqt/)
-- [Building a Python GUI with PyQt Designer](https://pbrotoisworo.medium.com/building-a-python-gui-with-pyqt-designer-987f8a400bdf)
+
 - [Basic Layouts Example](https://doc.qt.io/qt-6/qtwidgets-layouts-basiclayouts-example.html)
 - [Get User Input from QDialog](https://forum.qt.io/topic/100683/get-user-input-from-qdialog)
+
+### QT Widget Designer
+
+- [QT Widget Designer vs coding manually](https://stackoverflow.com/questions/4114389/qt-designer-vs-handcoding)
+- [Real Python QT Designer Tutorial](https://realpython.com/qt-designer-python/)
+- [Building a Python GUI with PyQt Designer](https://pbrotoisworo.medium.com/building-a-python-gui-with-pyqt-designer-987f8a400bdf)
