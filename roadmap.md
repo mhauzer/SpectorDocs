@@ -47,12 +47,15 @@
 - Search
 - Select all, add to the selection, remove from the selection
 - Dictionaries
-- Displaying Requirement Specification Writing Rules as a tool property window
-- Displaying Label Grammar as a tool property window
-- Contextual Help
-- Manual
-- FAQ
-- Reporting Bugs
+- Automatic linking to a dictionary item
+- Automatic linking to a referred requirement
+- User Support: 
+   - Displaying Requirement Specification Writing Rules as a tool property window
+   - Displaying Label Grammar as a tool property window
+   - Contextual Help
+   - Manual
+   - FAQ
+   - Reporting Bugs
 
 ## v0.5
 
@@ -81,8 +84,9 @@
 - UI:
   - Toolbar customization
   - Shortcuts customization
-- Business Features:
   - Requirement details as a part of the view, rather than a dialog form
+  - Smart Markdown file editor 
+- Business Features:
   - Converting Documentation to Specification
   - Converting Code to Specification
   - Generating Tests
