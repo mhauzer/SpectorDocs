@@ -59,6 +59,7 @@
 - Requirement Graphs [Graph Databases for Python](https://www.reddit.com/r/Python/comments/x376eg/do_you_use_python_in_combination_with_some_graph/?rdt=62766), ([2](https://www.reddit.com/r/KnowledgeGraph/comments/1qcpqj3/i_built_a_graph_database_in_python/)), CogDb
 - Detecting Redundant Requirements
 - Detecting Requirement Conflicts
+- Specification Review against the 3 rules
 - Marking requirements as implemented
 
 ## v0.6
