@@ -11,6 +11,7 @@
 - [Software Architecture](./software-architecture.md)
 - [Learning Resources](./learning-resources.md)
 - [QT Development](./qt-development.md)
+- [SAP Cloud ALM](https://help.sap.com/docs/cloud-alm/applicationhelp/requirements)
 
 ## Way of Work
 
