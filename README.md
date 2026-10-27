@@ -1,6 +1,10 @@
-# Spector Documents
+# Spector Team Documents
 
-- [Spector Documents](#spector-documents)
+Welcome to the Spector Team!
+
+If you are a new member, you can begin from [the onboarding page](./Processes/README.md).
+
+- [Spector Team Documents](#spector-team-documents)
   - [Related Documents](#related-documents)
   - [Way of Work](#way-of-work)
 
