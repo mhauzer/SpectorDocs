@@ -49,16 +49,21 @@
 - Dictionaries
 - Automatic linking to a dictionary item
 - Automatic linking to a referred requirement
-- User Support: 
-   - Displaying Requirement Specification Writing Rules as a tool property window
-   - Displaying Label Grammar as a tool property window
-   - Contextual Help
-   - Manual
-   - FAQ
-   - Reporting Bugs
+- User Support:
+  - Displaying Requirement Specification Writing Rules as a tool property window
+  - Displaying Label Grammar as a tool property window
+  - Contextual Help
+  - Manual
+  - FAQ
+  - Reporting Bugs
 
 ## v0.5
 
+- Project stage as a part of a requirement
+- Sections
+- Non-requirement items:
+  - Paragraphs
+  - Comments
 - Requirement Graphs [Graph Databases for Python](https://www.reddit.com/r/Python/comments/x376eg/do_you_use_python_in_combination_with_some_graph/?rdt=62766), ([2](https://www.reddit.com/r/KnowledgeGraph/comments/1qcpqj3/i_built_a_graph_database_in_python/)), CogDb
 - Detecting Redundant Requirements
 - Detecting Requirement Conflicts
@@ -76,7 +81,7 @@
 ## v0.7
 
 - Planning
-- Versioning
+- Versioning, automatic changelog
 - Comparing specifications
 
 ## Backlog
@@ -85,7 +90,7 @@
   - Toolbar customization
   - Shortcuts customization
   - Requirement details as a part of the view, rather than a dialog form
-  - Smart Markdown file editor 
+  - Smart Markdown file editor
 - Business Features:
   - Converting Documentation to Specification
   - Converting Code to Specification
