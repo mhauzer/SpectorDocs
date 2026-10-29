@@ -39,6 +39,9 @@
 - [ ] Exporting requirements to Markdown files.
 - [ ] Import requirements from Markdown files.
 - [ ] [Markdown files editor](https://doc.qt.io/qtforpython-6/examples/example_webenginewidgets_markdowneditor.html)
+- [ ] View option: Appearance: Zoom In, Zoom Out, Reset Zoom - changing font size
+- [ ] Specification header: font size
+- [ ] User Options: default font size
 - [ ] New help menu item: Requirement Specification Writing Rules
 - [ ] New help menu item: Label Grammar
 
