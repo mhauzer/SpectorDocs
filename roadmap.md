@@ -24,9 +24,9 @@
     - number: int
   - [x] setting prefixes for labels
   - [x] updating prefixes for labels
-  - [ ] autonumeration
-  - [ ] autonumeration option
-  - [ ] Relabelling
+  - [x] autonumeration
+  - [x] autonumeration option
+  - [x] Relabelling
 - [ ] User Options
 - [ ] Drag & drop
 - [ ] Undo
