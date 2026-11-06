@@ -48,7 +48,8 @@
 ## v0.4
 
 - [ ] Search
-- [ ] Select all, add to the selection, remove from the selection
+- [ ] Copy, Cut, Paste
+- [ ] Select all, add to the selection, remove from the selection, perform editing operations on the selected requirements
 - [ ] Dictionaries
 - [ ] Automatic linking to a dictionary item
 - [ ] Automatic linking to a referred requirement
