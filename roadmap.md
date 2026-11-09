@@ -36,6 +36,10 @@
 - [ ] Requirement trees
 - [ ] Persistent view state (collapsed and expanded nodes in the tree view)
 - [ ] References
+- [ ] Non-requirement items:
+  - [ ] Paragraphs
+  - [ ] Comments
+- [ ] Sections
 - [ ] Exporting requirements to Markdown files.
 - [ ] Import requirements from Markdown files.
 - [ ] [Markdown files editor](https://doc.qt.io/qtforpython-6/examples/example_webenginewidgets_markdowneditor.html)
@@ -65,10 +69,6 @@
 ## v0.5
 
 - [ ] Project stage as a part of a requirement
-- [ ] Sections
-- [ ] Non-requirement items:
-  - [ ] Paragraphs
-  - [ ] Comments
 - [ ] Links in requirements and non-requirement items
 - [ ] Requirement Graphs [Graph Databases for Python](https://www.reddit.com/r/Python/comments/x376eg/do_you_use_python_in_combination_with_some_graph/?rdt=62766), ([2](https://www.reddit.com/r/KnowledgeGraph/comments/1qcpqj3/i_built_a_graph_database_in_python/)), CogDb
 - [ ] Detecting Redundant Requirements

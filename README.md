@@ -1,10 +1,15 @@
-# Spector Team Documents
+# Spector Development Team Documents
 
-Welcome to the Spector Team!
+Welcome to the Spector Development Team!
+
+We are building and maintaining [Spector](https://github.com/mhauzer/Spector) - a requirements management tool.
 
 If you are a new member, you can begin from [the onboarding page](./Processes/README.md).
 
-- [Spector Team Documents](#spector-team-documents)
+## Table of Contents
+
+- [Spector Development Team Documents](#spector-development-team-documents)
+  - [Table of Contents](#table-of-contents)
   - [Related Documents](#related-documents)
   - [Way of Work](#way-of-work)
 
