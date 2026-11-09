@@ -47,6 +47,7 @@
 
 ## v0.4
 
+- [ ] Label locks (preventing changes to specific labels)
 - [ ] Search
 - [ ] Copy, Cut, Paste
 - [ ] Select all, add to the selection, remove from the selection, perform editing operations on the selected requirements
