@@ -28,7 +28,7 @@
   - [x] autonumeration option
   - [x] Relabelling
 - [x] User Options
-- [ ] Drag & drop
+- [x] Drag & drop
 - [ ] Undo
 
 ## v0.3
