@@ -1,7 +1,7 @@
 
 # Spector - Requirement Specification
 
-v0.2, 2026-09-16
+v0.3, 2026-11-13
 
 - [Spector - Requirement Specification](#spector---requirement-specification)
   - [Changelog](#changelog)
@@ -20,6 +20,7 @@ v0.2, 2026-09-16
     - [(REQ4.5) Opening an Existing Requirement Specification from a File](#req45-opening-an-existing-requirement-specification-from-a-file)
     - [(REQ4.6) Closing a Requirement Specification Document](#req46-closing-a-requirement-specification-document)
     - [(REQ4.7) Editing Requirement Specification](#req47-editing-requirement-specification)
+  - [(REQ5) Undo and Redo](#req5-undo-and-redo)
 
 ## Changelog
 
@@ -28,6 +29,7 @@ Date | Author | Version | Description
 2026-09-16 | Michał Hauzer | v0.1 | Initial version
 2026-09-16 | Michał Hauzer | v0.2 | Requirement Specification Document Unsaved Changes flag added
 2026-09-17 | Michał Hauzer | v0.3 | Document creation date should be set on new document creation event, not the saving one
+2026-11-13 | Michał Hauzer | v0.3 | Undo
 
 ## Preamble
 
@@ -180,3 +182,32 @@ Supplemental:
 - **(REQ4.7.2.2)** edit requirements
 - **(REQ4.7.2.3)** remove requirements
 - **(REQ4.7.2.4:S2)** reorder requirements
+
+## (REQ5) Undo and Redo
+
+**(REQ5.1)** The User should be able to undo the most recent operations performed on the requirement specification document.
+
+**(REQ5.2)** The list of operations that can be undone:
+
+- **(REQ5.2.1)** add requirement
+- **(REQ5.2.2)** edit requirement's description
+- **(REQ5.2.3)** edit requirement's label prefix
+- **(REQ5.2.4)** remove requirement
+- **(REQ5.2.5)** reorder requirement
+- **(REQ5.2.6:S2)** edit document title
+- **(REQ5.2.7:S2)** edit document author
+- **(REQ5.2.8:S2)** edit document version
+
+**(REQ5.3)** The User should be able to undo multiple operations in sequence, up to the point where no more operations can be undone.
+
+**(REQ5.3.1)** The maximum number of operations that can be undone is 10.
+
+**(REQ5.3.1:S2)** The maximum number of operations that can be undone is 100.
+
+**(REQ5.4)** The application should provide a way for the User to view the list of operations that can be undone.
+
+**(REQ5.5)** The list of operations that can be undone should be stored in the same file as the requirement specification document.
+
+**(REQ5.5:S2)** The application should provide a way for the User to redo operations that have been undone.
+
+**(REQ5.6:S2)** The application should provide a way for the User to view the list of operations that can be redone.

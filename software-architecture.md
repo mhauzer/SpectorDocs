@@ -42,3 +42,34 @@ class RequirementSpecification:
     creation_date: datetime
     last_modification_date: datetime
 ```
+
+## Undo
+
+Undo is implemented as a list of actions that can be undone. Every action performed by the User is recorded as an action in this list.
+
+### Action
+
+- `type: str`
+- `data: dict`
+
+### Action Types
+
+- `ADD_REQUIREMENT`
+- `EDIT_REQUIREMENT`
+- `REMOVE_REQUIREMENT`
+- `REORDER_REQUIREMENT`
+
+### Undo Algorithm
+
+1. When an action is performed by the User, create an Action object with the appropriate type and data.
+2. Append the Action object to the list of actions that can be undone.
+3. If the list of actions that can be undone exceeds the maximum allowed size, remove the oldest action from the list.
+4. To undo an action, remove the most recent action from the list and perform the inverse operation based on the action type and data.
+
+Example:
+
+1. User adds a new requirement.
+
+```python
+Action(type="ADD_REQUIREMENT", data={"requirement": Requirement(label="New Requirement", description="Description of the new requirement")})
+```
