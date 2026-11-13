@@ -197,6 +197,8 @@ Supplemental:
 - **(REQ5.2.6:S2)** edit document title
 - **(REQ5.2.7:S2)** edit document author
 - **(REQ5.2.8:S2)** edit document version
+- **(REQ5.2.9:S2)** edit default requirement's label prefix defined in the document header
+- **(REQ5.2.10:S2)** update requirements prefixes
 
 **(REQ5.3)** The User should be able to undo multiple operations in sequence, up to the point where no more operations can be undone.
 
