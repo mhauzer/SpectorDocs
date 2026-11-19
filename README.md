@@ -4,7 +4,7 @@ Welcome to the Spector Development Team!
 
 We are building and maintaining [Spector](https://github.com/mhauzer/Spector) - a requirements management tool.
 
-If you are a new member, you can begin from [the onboarding page](./Processes/README.md).
+If you are a new member, you can begin from [the onboarding page](./processes/onboarding/README.md).
 
 ## Table of Contents
 
