@@ -21,6 +21,7 @@ v0.3, 2026-11-13
     - [(REQ4.6) Closing a Requirement Specification Document](#req46-closing-a-requirement-specification-document)
     - [(REQ4.7) Editing Requirement Specification](#req47-editing-requirement-specification)
   - [(REQ5) Undo and Redo](#req5-undo-and-redo)
+  - [Keyboard Shortcuts](#keyboard-shortcuts)
 
 ## Changelog
 
@@ -213,3 +214,18 @@ Supplemental:
 **(REQ5.5:S2)** The application should provide a way for the User to redo operations that have been undone.
 
 **(REQ5.6:S2)** The application should provide a way for the User to view the list of operations that can be redone.
+
+## Keyboard Shortcuts
+
+| Action | Shortcut |
+| ------ | -------- |
+| New Specification | CTRL+N |
+| Open Specification | CTRL+O |
+| Save Specification | CTRL+S |
+| Close Specification | CTRL+W |
+| Exit | CTRL+Q |
+| Add Requirement | CTRL+SHIFT+A |
+| Delete Requirement | CTRL+SHIFT+R |
+| Edit Requirement | CTRL+SHIFT+E |
+| View Requirement | CTRL+SHIFT+V |
+| Accept the Requirement Details dialog | CTRL+ENTER or CTRL+RETURN |
