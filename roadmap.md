@@ -34,6 +34,12 @@
 ## v0.3
 
 - [ ] Requirement trees
+  - [ ] Loading and saving requirement trees (to test it we can modify the saved files manually)
+  - [ ] Modifying requirement labels that supports nested numbering
+  - [ ] Replace the list view with a tree view
+  - [ ] Adding new requirements (two separate actions: add as child, add as a sibling)
+  - [ ] Deleting requirements (handling nested requirements appropriately)
+  - [ ] Moving requirements within the tree (handling nested requirements appropriately)
 - [ ] Persistent view state (collapsed and expanded nodes in the tree view)
 - [ ] References
 - [ ] Non-requirement items:
